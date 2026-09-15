@@ -1,7 +1,7 @@
 ![](https://media.giphy.com/media/dWkxAZTg9NbAhvRqOe/giphy.gif)
 
 # CSS-Only Chat
-A truly monstrous async web chat using no JS whatsoever on the frontend.
+A truly monstrous async web chat using no JS whatsoever on the frontend from [kkuchta](https://github.com/kkuchta/css-only-chat), modified to work in 2026. Rest of the README is unchanged from the forked repository.
 
 ![](https://media.giphy.com/media/mCClSS6xbi8us/giphy.gif)
 
