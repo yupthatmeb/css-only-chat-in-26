@@ -154,7 +154,7 @@ class IndexStreamer
     "<html><head><link rel='stylesheet' href='style.css'/></head><body>" +
       "<h1>Welcome to CSS-only Chat!</h1>" +
       "<p>This page uses no javascript whatsosever - only CSS and html.  Blame https://github.com/kkuchta/css-only-chat for this.</p>" +
-      "<p>PS: Meine aktualisierungen an diesem 7 Jahre alten Projekt sind offen auf Github, könnt also auch selber was damit machen :) </p>" +
+      "<p>PS: Meine aktualisierungen an diesem 7 Jahre alten Projekt sind offen auf Github, koennt also auch selber was damit machen :) </p>" +
       "<p> To send a message, click the letters on the keyboard below.  When you're done, click the 'submit' button to send your message.</p>" +
       "<p>Your name is #{client_id}.</p>"
   end
